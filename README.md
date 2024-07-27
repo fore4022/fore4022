@@ -1,4 +1,4 @@
-## 게임 클라이언트 개발자 지망생입니다.
+게임 클라이언트 개발자 지망생입니다.
 
 <a href="https://www.notion.so/dbaa8c751f124e8a881f15a0322eb470?pvs=4">
   <img src="https://www.notion.so/front-static/logo-ios.png" alt="Notion" style="width:1em;height:1em;">
